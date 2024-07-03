@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MEAN-Stack%20Maestro-brightgreen" alt="MEAN Stack">
   <img src="https://img.shields.io/badge/JavaScript-Sorcerer-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Database-Tamer-blue?style=flat&logo=postgresql&logoColor=white" alt="Database">
+  <img src="https://img.shields.io/badge/Database-Tamer-green?style=flat&logo=mongodb&logoColor=white" alt="Database">
   <img src="https://img.shields.io/badge/Cloud-Whisperer-informational?style=flat&logo=amazon-aws&logoColor=white" alt="Cloud">
 </p>
 
