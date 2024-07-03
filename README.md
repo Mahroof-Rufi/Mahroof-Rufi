@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Muhammed Mahroof 👋
 
-<!--
-**Mahroof-Rufi/Mahroof-Rufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Sorcerer | MEAN Stack Maestro
 
-Here are some ideas to get you started:
+Crafting digital experiences from pixels to databases. I transform coffee into code and ideas into applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+- Architect robust back-ends with Node.js and Express
+- Sculpt seamless front-ends using Angular
+- Wrangle data with MongoDB
+- Orchestrate full-stack harmony
+
+### 💡 My Philosophy
+
+"In the world of code, simplicity is the ultimate sophistication."
+
+### 🛠️ Tech Arsenal
+
+const mahroof = {
+  languages: ['JavaScript', 'TypeScript', 'HTML'],
+  frameworks: ['Angular', 'Express.js'],
+  database: ['MongoDB', 'PostgreSQL'],
+  tools: ['Git', 'VS Code', 'Postman'],
+  architecture: ['MVC', 'RESTful APIs', 'Clean Architecture']
+}
