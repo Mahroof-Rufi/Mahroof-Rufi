@@ -1,33 +1,29 @@
-<h1 align="center">Muhammed Mahroof | Full Stack Sorcerer | MEAN Stack Maestro</h1>
+<h1 align="center">Muhammed Mahroof | Code Conjurer 🧙‍♂️</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MEAN-Stack-brightgreen" alt="MEAN Stack">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="AWS">
+  <img src="https://img.shields.io/badge/MEAN-Stack%20Maestro-brightgreen" alt="MEAN Stack">
+  <img src="https://img.shields.io/badge/JavaScript-Sorcerer-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Database-Tamer-blue?style=flat&logo=postgresql&logoColor=white" alt="Database">
+  <img src="https://img.shields.io/badge/Cloud-Whisperer-informational?style=flat&logo=amazon-aws&logoColor=white" alt="Cloud">
 </p>
 
-Crafting digital experiences from pixels to databases. I transform coffee into code and ideas into applications.
+<p align="center">Transforming caffeine into code and dreams into digital reality since the first commit</p>
 
-### 🚀 What I Do
+## 🎩 Magic Tricks
 
-- Architect robust back-ends with Node.js and Express
-- Sculpt seamless front-ends using Angular
-- Wrangle data with MongoDB
-- Orchestrate full-stack harmony
+- Pulling full-stack rabbits out of hats
+- Turning spaghetti code into lasagna architecture
+- Making bugs disappear faster than you can say "404"
+- Conjuring APIs that speak fluent HTTP
 
-### 💡 My Philosophy
-
-"In the world of code, simplicity is the ultimate sophistication."
-
-### 🛠️ Tech Arsenal
+## 🔮 Crystal Ball of Tech
 
 ```javascript
 const mahroof = {
-  frontEnd: ['Angular', 'Tailwind CSS', 'Bootstrap', 'EJS'],
-  backEnd: ['Node.js', 'Express', 'Socket.io'],
-  databases: ['MongoDB', 'PostgreSQL'],
-  cloud: ['AWS EC2', 'Route 53'],
-  practices: ['RESTful APIs', 'Clean Architecture', 'DSA'],
-  currentFocus: 'Architecting scalable and efficient web solutions'
+  spellbook: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  wands: ['Angular', 'Node.js', 'Express', 'Socket.io'],
+  potions: ['MongoDB', 'PostgreSQL'],
+  familiarSpirits: ['AWS EC2', 'Route 53'],
+  secretScrolls: ['RESTful APIs', 'Clean Architecture', 'DSA'],
+  currentQuest: 'Forging the one web app to rule them all'
 };
