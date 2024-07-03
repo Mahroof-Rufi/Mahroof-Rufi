@@ -17,8 +17,8 @@ Crafting digital experiences from pixels to databases. I transform coffee into c
 
 ### 🛠️ Tech Arsenal
 
-```javascript
-const mahroof = {
+```typescript
+const mahroof:string[] = {
   languages: ['JavaScript', 'TypeScript', 'HTML'],
   frameworks: ['Angular', 'Express.js'],
   database: ['MongoDB', 'PostgreSQL'],
