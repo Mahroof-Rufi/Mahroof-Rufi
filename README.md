@@ -1,4 +1,4 @@
-<h1 align="center">Muhammed Mahroof | Full Stack Alchemist</h1>
+<h1 align="center">Muhammed Mahroof | Full Stack Sorcerer | MEAN Stack Maestro</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MEAN-Stack-brightgreen" alt="MEAN Stack">
@@ -7,9 +7,20 @@
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="AWS">
 </p>
 
-<p align="center">Transforming caffeine into code since undefined</p>
+Crafting digital experiences from pixels to databases. I transform coffee into code and ideas into applications.
 
-## 🧪 Tech Alchemy
+### 🚀 What I Do
+
+- Architect robust back-ends with Node.js and Express
+- Sculpt seamless front-ends using Angular
+- Wrangle data with MongoDB
+- Orchestrate full-stack harmony
+
+### 💡 My Philosophy
+
+"In the world of code, simplicity is the ultimate sophistication."
+
+### 🛠️ Tech Arsenal
 
 ```javascript
 const mahroof = {
