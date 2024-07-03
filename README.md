@@ -13,10 +13,10 @@
 
 ```javascript
 const mahroof = {
-  frontEnd: ['Angular', 'React', 'Tailwind CSS', 'Bootstrap', 'EJS'],
+  frontEnd: ['Angular', 'Tailwind CSS', 'Bootstrap', 'EJS'],
   backEnd: ['Node.js', 'Express', 'Socket.io'],
   databases: ['MongoDB', 'PostgreSQL'],
   cloud: ['AWS EC2', 'Route 53'],
-  practices: ['RESTful APIs', 'Microservices', 'DSA'],
+  practices: ['RESTful APIs', 'Clean Architecture', 'DSA'],
   currentFocus: 'Architecting scalable and efficient web solutions'
 };
