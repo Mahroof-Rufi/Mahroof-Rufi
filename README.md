@@ -1,27 +1,46 @@
-# Hello, I'm Muhammed Mahroof 👋
+<h1 align="center">Muhammed Mahroof | Full Stack Alchemist</h1>
 
-## Full Stack Sorcerer | MEAN Stack Maestro
+<p align="center">
+  <img src="https://img.shields.io/badge/MEAN-Stack-brightgreen" alt="MEAN Stack">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="AWS">
+</p>
 
-Crafting digital experiences from pixels to databases. I transform coffee into code and ideas into applications.
+<p align="center">Transforming caffeine into code since undefined</p>
 
-### 🚀 What I Do
+## 🧪 Tech Alchemy
 
-- Architect robust back-ends with Node.js and Express
-- Sculpt seamless front-ends using Angular
-- Wrangle data with MongoDB
-- Orchestrate full-stack harmony
+```javascript
+const mahroof = {
+  frontEnd: ['Angular', 'React', 'Tailwind CSS', 'Bootstrap', 'EJS'],
+  backEnd: ['Node.js', 'Express', 'Socket.io'],
+  databases: ['MongoDB', 'PostgreSQL'],
+  cloud: ['AWS EC2', 'Route 53'],
+  practices: ['RESTful APIs', 'Microservices', 'DSA'],
+  currentFocus: 'Architecting scalable and efficient web solutions'
+};
 
-### 💡 My Philosophy
+🚀 Mission
+Crafting digital experiences that seamlessly blend form and function. I don't just write code; I solve puzzles, one commit at a time.
+💡 Innovation Lab
 
-"In the world of code, simplicity is the ultimate sophistication."
+🔮 Crystal Ball: Predictive analytics dashboard (Angular, Node.js, Socket.io)
+🌐 Nexus: Microservices-based e-commerce platform (MEAN stack, AWS)
+🧠 CodeMentor: AI-powered coding tutor (React, Express, PostgreSQL)
 
-### 🛠️ Tech Arsenal
-
-```typescript
-const mahroof:string[] = {
-  languages: ['JavaScript', 'TypeScript', 'HTML'],
-  frameworks: ['Angular', 'Express.js'],
-  database: ['MongoDB', 'PostgreSQL'],
-  tools: ['Git', 'VS Code', 'Postman'],
-  architecture: ['MVC', 'RESTful APIs', 'Clean Architecture']
-}
+🌟 Coding Philosophy
+"Simplicity is the soul of efficiency. Clear code today keeps the bugs away."
+📊 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Mahroof's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Mahroof's top languages"/>
+</p>
+🔗 Sync With Me
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white"/></a>
+</p>
+<p align="center">⭐️ From [muhammed-mahroof](https://github.com/YOUR_GITHUB_USERNAME)</p>
+```
