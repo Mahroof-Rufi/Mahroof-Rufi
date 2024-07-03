@@ -20,27 +20,3 @@ const mahroof = {
   practices: ['RESTful APIs', 'Microservices', 'DSA'],
   currentFocus: 'Architecting scalable and efficient web solutions'
 };
-
-🚀 Mission
-Crafting digital experiences that seamlessly blend form and function. I don't just write code; I solve puzzles, one commit at a time.
-💡 Innovation Lab
-
-🔮 Crystal Ball: Predictive analytics dashboard (Angular, Node.js, Socket.io)
-🌐 Nexus: Microservices-based e-commerce platform (MEAN stack, AWS)
-🧠 CodeMentor: AI-powered coding tutor (React, Express, PostgreSQL)
-
-🌟 Coding Philosophy
-"Simplicity is the soul of efficiency. Clear code today keeps the bugs away."
-📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Mahroof's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Mahroof's top languages"/>
-</p>
-🔗 Sync With Me
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white"/></a>
-</p>
-<p align="center">⭐️ From [muhammed-mahroof](https://github.com/YOUR_GITHUB_USERNAME)</p>
-```
