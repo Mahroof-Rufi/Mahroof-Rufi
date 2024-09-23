@@ -13,7 +13,7 @@
 <!-- Full-width image -->
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
-<h3 align="center"><samp>Connect Me</samp></h3>
+<h3 align="center"><samp>Connect Me 🔗</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
