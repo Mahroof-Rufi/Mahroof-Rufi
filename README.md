@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">Transforming caffeine into code and dreams into digital reality since the first commit</p>
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width: 1000px>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width: 100%; max-width: 100%;" alt="Magic">
 <br><br>
 
 ## 🎩 Magic Tricks
