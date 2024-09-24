@@ -11,22 +11,6 @@
 <!-- Full-width image -->
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
-<h3 align="center"><samp>Connect Me 🔗</samp></h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahroof-rufi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mahroofprsnl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://leetcode.com/u/MahroofRufi/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://discord.com/invite/your-discord-invite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -135,3 +119,20 @@ const mahroof = {
   secretScrolls: ['RESTful APIs', 'Clean Architecture', 'DSA'],
   currentQuest: 'Forging the one web app to rule them all'
 };
+
+
+<h3 align="center"><samp>Connect Me 🔗</samp></h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahroof-rufi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mahroofprsnl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://leetcode.com/u/MahroofRufi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://discord.com/invite/your-discord-invite" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
