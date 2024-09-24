@@ -1,13 +1,6 @@
 <h2 align="center"><samp>Hey there👋, I'm Mahroof</samp></h2>
 <h3 align="center"><samp>A Full Stack Developer based in India, passionate about building web applications and solving technical challenges</samp> </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MEAN-Stack%20Maestro-brightgreen" alt="MEAN Stack">
-  <img src="https://img.shields.io/badge/JavaScript-Sorcerer-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Database-Tamer-green?style=flat&logo=mongodb&logoColor=white" alt="Database">
-  <img src="https://img.shields.io/badge/Cloud-Whisperer-informational?style=flat&logo=amazon-aws&logoColor=white" alt="Cloud">
-</p>
-
 <h3 align="center"><samp>Connect Me 🔗</samp></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mahroof-rufi/" target="_blank">
