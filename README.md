@@ -1,5 +1,9 @@
 <h2 align="center"><samp>Hey there👋, I'm Mahroof</samp></h2>
 <h3 align="center"><samp>A Full Stack Developer based in India, passionate about building web applications and solving technical challenges</samp> </h3>
+
+<!-- Full-width image -->
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+
 <h3 align="center"><samp>Connect Me 🔗</samp></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mahroof-rufi/" target="_blank">
@@ -15,9 +19,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
-
-<!-- Full-width image -->
-<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
