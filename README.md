@@ -1,5 +1,5 @@
 <h2 align="center"><samp>Hey👋 I'm Mahroof</samp></h2>
-<h3 align="center"><samp>A Software Developer based in India 🇮🇳</samp> </h3>
+<h3 align="center"><samp>A Software Developer based in India </samp> </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MEAN-Stack%20Maestro-brightgreen" alt="MEAN Stack">
