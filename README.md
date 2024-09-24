@@ -11,7 +11,7 @@
 <p align="center">Transforming caffeine into code and dreams into digital reality since the first commit</p>
 
 <!-- Full-width image -->
-<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <h3 align="center"><samp>Connect Me 🔗</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
