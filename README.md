@@ -119,7 +119,7 @@ const mahroof = {
   secretScrolls: ['RESTful APIs', 'Clean Architecture', 'DSA'],
   currentQuest: 'Forging the one web app to rule them all'
 };
-
+```
 
 <h3 align="center"><samp>Connect Me 🔗</samp></h3>
 <p align="center">
