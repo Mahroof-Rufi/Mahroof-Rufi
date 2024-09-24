@@ -92,9 +92,6 @@
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45" />
       <br>Nginx
     </td>
-  </tr>
-  <tr>
-    <!-- Databases -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
       <br>MongoDB
