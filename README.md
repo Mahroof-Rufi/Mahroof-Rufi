@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="45" height="45" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -89,10 +89,6 @@
       <br>RxJS
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/ngrx.png" alt="NgRx" width="45" height="45" />
-      <br>NgRx
-    </td>
-    <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45" />
       <br>Nginx
     </td>
@@ -106,10 +102,6 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongoose" alt="Mongoose" width="48" height="48" />
-      <br>Mongoose
     </td>
   </tr>
   <tr>
