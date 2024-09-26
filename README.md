@@ -2,7 +2,7 @@
 <h3 align="center"><samp>A Full Stack Developer based in India, passionate about building web applications and solving technical challenges</samp> </h3>
 
 <!-- Image positioned on the right -->
-<img alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="34%" />
+<img alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="33%" />
 
 <!-- Tech Stack on the left -->
 ### 🛠 &nbsp;Tech Stack
