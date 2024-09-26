@@ -123,10 +123,6 @@ const mahroof = {
   <a href="mailto:mahroofprsnl@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="Gmail" height="50" width="50" />
   </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://leetcode.com/u/MahroofRufi/" target="_blank">
-    <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/leetcode.png" alt="LeetCode" height="50" width="50" />
-  </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.com/invite/your-discord-invite" target="_blank">
     <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png" alt="Discord" height="50" width="50" />
