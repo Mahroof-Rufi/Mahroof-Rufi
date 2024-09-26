@@ -8,7 +8,6 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <!-- Frontend -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="45" height="45" />
       <br>Angular
@@ -35,7 +34,6 @@
     </td>
   </tr>
   <tr>
-    <!-- Backend -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="48" height="48" />
       <br>Node.js
@@ -62,7 +60,6 @@
     </td>
   </tr>
   <tr>
-    <!-- Tools -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
       <br>Git
@@ -100,28 +97,6 @@
 </a>
 </p>
 
-
-
-
-## 🎩 Magic Tricks
-
-- Pulling full-stack rabbits out of hats
-- Turning spaghetti code into lasagna architecture
-- Making bugs disappear faster than you can say "404"
-- Conjuring APIs that speak fluent HTTP
-
-## 🔮 Crystal Ball of Tech
-
-```javascript
-const mahroof = {
-  spellbook: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  wands: ['Angular', 'Node.js', 'Express', 'Socket.io'],
-  potions: ['MongoDB', 'PostgreSQL'],
-  familiarSpirits: ['AWS EC2', 'Route 53'],
-  secretScrolls: ['RESTful APIs', 'Clean Architecture', 'DSA'],
-  currentQuest: 'Forging the one web app to rule them all'
-};
-```
 
 <h3 align="center">Connect with me 🔗</h3>
 <p align="center">
