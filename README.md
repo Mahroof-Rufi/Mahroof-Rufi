@@ -9,80 +9,80 @@
 
 <div style="display: flex; align-items: flex-start; align: center"  width="67%">
 <table style="max-width: 100%; display: block;" >
-  <tr width="67%">
-    <td >
+  <tr width="67%" align: center">
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="45" height="45" />
       <br>Angular
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="45" height="45" />
       <br>TypeScript
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="45" height="45" />
       <br>Tailwind
     </td>
-    <td >
+    <td align: center">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
       <br>HTML5
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
       <br>CSS
     </td>
   </tr>
-  <tr>
-    <td >
+  <tr align: center">
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="48" height="48" />
       <br>Node.js
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
       <br>Express.js
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=rxjs" alt="RxJS" width="48" height="48" />
       <br>RxJS
     </td>
-    <td >
+    <td align: center">
       <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45" />
       <br>Nginx
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
       <br>MongoDB
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
     </td>
   </tr>
-  <tr>
-    <td >
+  <tr align: center">
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
       <br>Git
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=github" alt="Github" width="48" height="48" />
       <br>Github
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="48" height="48" />
       <br>VS Code
     </td>
-    <td >
+    <td align: center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
       <br>Linux
     </td>
-    <td >
+    <td align: center">
       <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
       <br>AWS
     </td>
