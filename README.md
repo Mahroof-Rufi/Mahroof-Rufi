@@ -7,7 +7,7 @@
 <!-- Tech Stack on the left -->
 ### 🛠 &nbsp;Tech Stack
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center"  width="67%">
 <table align="center">
   <tr>
     <td align="center" width="100">
