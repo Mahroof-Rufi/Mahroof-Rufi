@@ -1,14 +1,14 @@
 <h2 align="center"><samp>Hey there👋, I'm Mahroof</samp></h2>
 <h3 align="center"><samp>A Full Stack Developer based in India, passionate about building web applications and solving technical challenges</samp> </h3>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <!-- Image Section (50% width) -->
-  <div style="width: 50%; text-align: center;">
-    <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <img align="center" alt="Coding" width="90%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
   </div>
 
   <!-- Technologies Section (50% width) -->
-  <div style="width: 50%;">
+  <div style="flex: 1; padding: 10px;">
     <h3 align="center">💻 &nbsp;Languages and Tools</h3>
     <div style="display: flex; justify-content: center; align-items: center;">
       <table align="center">
@@ -94,6 +94,7 @@
     </div>
   </div>
 </div>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
