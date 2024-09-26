@@ -8,7 +8,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 <div style="display: flex; align-items: flex-start; align: center"  width="67%">
-<table align="center">
+<table style="max-width: 100%; display: block;" align="center">
   <tr width="67%">
     <td align="center">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="45" height="45" />
