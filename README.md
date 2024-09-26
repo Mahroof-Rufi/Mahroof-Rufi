@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: flex-start; align: center"  width="67%">
 <table align="center">
-  <tr>
+  <tr width="67%">
     <td align="center" width="5.5%">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="45" height="45" />
       <br>Angular
